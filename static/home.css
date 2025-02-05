@@ -1,6 +1,6 @@
 
 nav {
-    background-color:#ff48a5 ;
+    background-color:#FF2615 ;
     color: #011413;
     padding: 0.5rem 1rem;
     display: flex;
@@ -8,7 +8,7 @@ nav {
     align-items: center;
 }
 nav a {
-    color: #ad357f;
+    color: #FF2615;
     text-decoration: none;
     margin: 0rem 1rem;
 }
